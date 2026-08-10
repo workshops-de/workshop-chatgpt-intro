@@ -1,10 +1,10 @@
 ---
 background: https://cover.sli.dev
-title: Under the Hood
+title: Prompting and Best Practices
 info: |
-  ## Under the Hood
-  Lesson 4 of the ChatGPT for Beginners workshop.
-  How the model learned, how it answers, and why convincing fabrications are the normal failure.
+  ## Prompting and Best Practices
+  Lesson 3 of the ChatGPT for Beginners workshop.
+  How to supply the context the model cannot guess, and how to check an answer you cannot verify yourself.
 drawings:
   persist: false
 transition: slide-left
@@ -12,13 +12,13 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /04-under-the-hood/
-out: ../../dist/04-under-the-hood
+base: /03-prompting/
+out: ../../dist/03-prompting
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/under-the-hood/topic.md
+src: ./slides/prompting/topic.md
 ---
 
 ---

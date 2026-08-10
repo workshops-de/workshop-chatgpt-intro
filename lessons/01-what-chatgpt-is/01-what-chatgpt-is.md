@@ -1,10 +1,10 @@
 ---
 background: https://cover.sli.dev
-title: Under the Hood
+title: What ChatGPT Is and What It Is For
 info: |
-  ## Under the Hood
-  Lesson 4 of the ChatGPT for Beginners workshop.
-  How the model learned, how it answers, and why convincing fabrications are the normal failure.
+  ## What ChatGPT Is and What It Is For
+  Lesson 1 of the ChatGPT for Beginners workshop.
+  What this thing actually is, which work it is good for, and where it stops.
 drawings:
   persist: false
 transition: slide-left
@@ -12,13 +12,13 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /04-under-the-hood/
-out: ../../dist/04-under-the-hood
+base: /01-what-chatgpt-is/
+out: ../../dist/01-what-chatgpt-is
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/under-the-hood/topic.md
+src: ./slides/what-chatgpt-is/topic.md
 ---
 
 ---

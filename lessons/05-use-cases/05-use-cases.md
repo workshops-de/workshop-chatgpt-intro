@@ -1,10 +1,10 @@
 ---
 background: https://cover.sli.dev
-title: Under the Hood
+title: Use Cases in Practice
 info: |
-  ## Under the Hood
-  Lesson 4 of the ChatGPT for Beginners workshop.
-  How the model learned, how it answers, and why convincing fabrications are the normal failure.
+  ## Use Cases in Practice
+  Lesson 5 of the ChatGPT for Beginners workshop.
+  Which tasks are worth handing over, which are not, and how to build a reusable assistant for the good ones.
 drawings:
   persist: false
 transition: slide-left
@@ -12,13 +12,13 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /04-under-the-hood/
-out: ../../dist/04-under-the-hood
+base: /05-use-cases/
+out: ../../dist/05-use-cases
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/under-the-hood/topic.md
+src: ./slides/use-cases/topic.md
 ---
 
 ---

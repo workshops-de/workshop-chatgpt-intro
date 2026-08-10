@@ -4,7 +4,7 @@ layout: cover
 
 # Under the Hood
 
-One mechanism explains every strength and every failure
+How it learned, and why it invents
 
 ---
 layout: section
@@ -16,13 +16,73 @@ layout: section
 layout: why
 ---
 
-# Why does it invent a source that looks completely real?
+# You have used it all morning. Why does it invent a source that looks completely real?
 
 ---
 layout: little-what
 ---
 
-# ChatGPT splits text into tokens and repeatedly picks a likely next one. That single loop is the whole trick.
+# It learned by predicting the next word, and it answers the same way. That single loop explains every strength and every failure you have seen today.
+
+---
+layout: sub-section
+---
+
+# First: how it learned
+
+---
+
+# Three ways a machine can learn
+
+| | Supervised | Unsupervised | Reinforcement |
+|---|---|---|---|
+| **Data** | Examples with answers | Examples without answers | Feedback after each attempt |
+| **Question** | Which label fits? | What belongs together? | What earns the best outcome? |
+| **Example** | Spam filter | Customer segments | Robot learning to walk |
+
+All three exist in products you already use. What makes ChatGPT unusual is that it needed all three at once.
+
+---
+layout: two-cols-header
+layoutClass: gap-x-8
+---
+
+# What learning actually looks like
+
+::left::
+
+Show someone 10,000 apartments together with the price each one sold for.
+
+After a while they notice the patterns: more square metres cost more, top floor adds a little, far from the centre takes a lot off.
+
+::right::
+
+Nobody ever gave them a formula, and they could not fully explain their estimate.
+
+Ask about apartment 10,001 and you get a solid guess. Ask about a houseboat and you get a confident, useless one.
+
+::bottom::
+<Callout type="warning">
+A model is only as good as the examples it saw. Outside that range it stays just as confident. Remember this one.
+</Callout>
+
+---
+
+# How ChatGPT was actually trained
+
+1. **Self-supervised pretraining** — read enormous amounts of text and predict the next word. The text is its own answer key, so no human labelling is needed
+2. **Supervised fine-tuning** — humans write example conversations that show what a good answer looks like
+3. **Reinforcement from human feedback** — humans rank competing answers, and the model learns which ones earn approval
+
+<Callout type="info">
+Step three is why it sounds helpful and confident. It was trained to produce answers people approve of, which is not the same as answers that are correct.
+</Callout>
+
+---
+layout: sub-section
+---
+
+# Then: how it answers
 
 ---
 layout: two-cols-header
@@ -123,6 +183,19 @@ Hallucination is not a bug that will be patched out. It is the flip side of the 
 
 ---
 
+# What today's AI is not
+
+- It does not understand meaning. It predicts what fits.
+- It does not look up facts unless you give it a tool for that.
+- It has no goals, opinions or feelings of its own.
+- It is not reliable in the way a calculator is. The same question can yield different answers.
+
+<Callout type="important">
+This is not pessimism. Knowing the limits is exactly what lets you use it with confidence.
+</Callout>
+
+---
+
 # What actually helps
 
 - Give it the material instead of relying on its memory
@@ -149,7 +222,8 @@ layout: task
 
 # What to take away
 
-- Text becomes tokens, and the model repeatedly picks a likely next one. That is the entire mechanism
+- It was trained by predicting the next word, then shaped by humans to sound helpful
+- Text becomes tokens, and it repeatedly picks a likely next one. That is the entire mechanism
 - No step in that loop checks whether the result is true, so convincing fabrications are the normal failure
 - Everything it considers must fit one context window. Long chats quietly lose their beginning
 - The more material you supply, the less it has to invent. That is the lever you control

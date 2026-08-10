@@ -1,6 +1,8 @@
 ## Purpose
 
-This is the most important exercise of the theory block. Participants stop memorising a list of limitations and start deriving them from the mechanism. Everything in the afternoon depends on this instinct, especially the quality control in Lesson 6.
+The exercise that converts a morning of experience into a rule. By now participants have prompted for over an hour and most have been burned at least once. Here they stop collecting anecdotes about limitations and start deriving them from the mechanism, which is what lets them predict a failure before it happens rather than recognise it afterwards.
+
+Reach back explicitly to the checking tactics from Lesson 3. Those were presented as good practice then; now the group can see why each one is necessary.
 
 ## Timing
 
@@ -27,7 +29,7 @@ Item 4 is deliberately ambiguous. Let the disagreement run for a moment before r
 
 ## Common Issues
 
-**Someone tested it over the break and reports it counted correctly.** Entirely possible: with reasoning enabled or a tool available, the product works around the limitation. The right framing is that the limitation is real and the product hides it inconsistently, which is worse than a limitation you can rely on.
+**Someone tests it live and reports it counted correctly.** Very likely now that everyone has an account open, and entirely possible: with reasoning enabled or a tool available, the product works around the limitation. The right framing is that the limitation is real and the product hides it inconsistently, which is worse than a limitation you can rely on. Invite the test rather than avoiding it.
 
 **The group gets fatalistic.** Eight requests, half of them broken, and the mood drops. Spend real time on step 3. Watching every failing request become fixable is the point of the exercise.
 
@@ -41,4 +43,4 @@ Item 4 is deliberately ambiguous. Let the disagreement run for a moment before r
 
 ## Bridge to the Next Lesson
 
-Close on the repair moves from step 3: supply material, add a tool, narrow the question. All three depend on knowing your way around the product, which is exactly what the second half of the day is about.
+Close on the repair moves from step 3: supply material, add a tool, narrow the question. Then point out what the group can now do that it could not this morning — judge a request before sending it. That judgement is precisely the first of the three selection questions in Lesson 5, where everyone picks and builds a real use case.

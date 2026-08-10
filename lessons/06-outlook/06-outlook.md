@@ -1,10 +1,10 @@
 ---
 background: https://cover.sli.dev
-title: Under the Hood
+title: Making Sense of It and What Comes Next
 info: |
-  ## Under the Hood
-  Lesson 4 of the ChatGPT for Beginners workshop.
-  How the model learned, how it answers, and why convincing fabrications are the normal failure.
+  ## Making Sense of It and What Comes Next
+  Lesson 6 of the ChatGPT for Beginners workshop.
+  Where this technology came from, where it is heading, and what you do with it in the next thirty days.
 drawings:
   persist: false
 transition: slide-left
@@ -12,13 +12,13 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /04-under-the-hood/
-out: ../../dist/04-under-the-hood
+base: /06-outlook/
+out: ../../dist/06-outlook
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/under-the-hood/topic.md
+src: ./slides/outlook/topic.md
 ---
 
 ---

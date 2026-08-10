@@ -1,10 +1,10 @@
 ---
 background: https://cover.sli.dev
-title: Under the Hood
+title: Getting Started
 info: |
-  ## Under the Hood
-  Lesson 4 of the ChatGPT for Beginners workshop.
-  How the model learned, how it answers, and why convincing fabrications are the normal failure.
+  ## Getting Started
+  Lesson 2 of the ChatGPT for Beginners workshop.
+  Plans, models, settings and data controls — the setup that decides how useful ChatGPT is for you.
 drawings:
   persist: false
 transition: slide-left
@@ -12,13 +12,13 @@ mdc: true
 seoMeta:
   ogImage: auto
 # Build configuration
-base: /04-under-the-hood/
-out: ../../dist/04-under-the-hood
+base: /02-getting-started/
+out: ../../dist/02-getting-started
 theme: '@workshops.de/slidev-theme'
 addons:
   - window-mockup
   - slidev-addon-tldraw
-src: ./slides/under-the-hood/topic.md
+src: ./slides/getting-started/topic.md
 ---
 
 ---
