@@ -14,6 +14,8 @@ Participants leave this exercise with their own shortlist, which every later les
 
 **Tasks stay too abstract.** The most common failure. "Documentation" or "customer communication" cannot be sorted. Walk the room and push for the concrete version until people name an actual recurring document.
 
+**Someone draws a complete blank.** Happens in every group, and it is usually nerves rather than an empty week. The hints open with a bilingual list of typical recurring tasks. Point at it early rather than letting the person sit through the exercise producing nothing — a borrowed starting point still produces their own sorting.
+
 **Everything is sorted as "shaping".** Enthusiastic groups over-assign. Counter with one question: where do the facts in that text come from? If the answer is "from my head or our systems", part of it is sourcing.
 
 **Someone declares their work unsuitable entirely.** Usually true for the core of a specialist role and usually false for everything around it. Look at the reporting, the handovers and the explaining to non-specialists.

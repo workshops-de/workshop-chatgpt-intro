@@ -18,6 +18,8 @@ If time is short, cut step 5 rather than step 3. The honest assessment is what m
 
 **A demo example instead of real work.** People reach for something safe and generic, and the whole exercise loses its value. Push early for real material — but be precise about what you are pushing for. The requirement is that the person genuinely cares about the result, not that it comes from work. If the data rules block their work material, steer them to a recurring private task rather than to an invented example. Someone planning their actual holiday learns more than someone summarising a fictional report.
 
+Only as a last resort, fall back to the meeting notes from the Lesson 3 materials. It works and produces a real assistant, but the person loses the connection to their own week, which is what makes the thirty-day plan stick.
+
 **Perfectionism in step 2.** Some will still be polishing after fifteen minutes. Announce the time and say clearly that usable beats perfect.
 
 **Skipping the honest assessment.** Step 3 gets rushed because the result looks good. Insist on the written time comparison. This is where the inflated expectations of the morning get corrected.

@@ -9,6 +9,8 @@ Four minutes per round. Speed is the point — you are training a reflex, not pr
 - The rebuilt prompt technique from the previous task
 - Three pieces of real material, one per round
 
+If you do not have three of your own, the four ready-made materials in the previous exercise cover every round: the email thread for round 1, the product text for round 2, and the meeting notes or the customer feedback for round 3.
+
 ## Steps
 
 ### Round 1: Summarise

@@ -41,7 +41,7 @@ Note what actually differs: the time it takes, the structure, and whether the se
 
 ### 4. Create your first project
 
-Make a project for one of the candidates from your Lesson 1 shortlist.
+Make a project for one of the candidates from your Lesson 1 shortlist. If nothing on it feels ready, use "weekly meeting notes into a clean summary" — it fits almost every role and you will reuse it in Lesson 3.
 
 - Give it a name you will recognise next month
 - Add project instructions describing the recurring context

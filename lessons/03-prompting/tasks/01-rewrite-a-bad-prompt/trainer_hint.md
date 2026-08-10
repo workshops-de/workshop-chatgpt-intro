@@ -16,6 +16,8 @@ The core exercise of the afternoon. The deliberate detour through a bad prompt i
 
 **People skip the bad version.** Everyone wants to write the good prompt immediately. Insist on step 1. Without the weak answer sitting above it, the improvement is an assertion rather than an experience.
 
+**Someone has no material, or none they are allowed to paste.** The hints open with four ready-made materials in German and English: messy meeting notes, an email thread about a delayed delivery, an over-technical product text, and unsorted customer feedback. Announce them at the start rather than waiting for someone to admit they are stuck. They also carry the whole prompt gym and, if needed, the use case in Lesson 5.
+
 **The rebuilt prompt describes the material instead of containing it.** The single most common mistake. "Summarise our project" instead of pasting the project report. Watch for it specifically and point it out individually.
 
 **The room falls silent and everyone just reads output.** Break it with a request for one person to read their before and after aloud. The contrast is far more convincing from a colleague than from you.

@@ -1,4 +1,26 @@
 <details>
+<summary>📋 Drawing a blank? Typical recurring tasks to pick from</summary>
+
+Take any six of these that occur in your own week. Replace the generic wording with your actual document as soon as one comes to mind.
+
+| English | Deutsch |
+|---|---|
+| Weekly status update for your team lead | Wöchentliches Status-Update für die Leitung |
+| Meeting notes into decisions and owners | Meeting-Notizen zu Entscheidungen und Zuständigkeiten |
+| A long report into a briefing for a decision | Langer Bericht zu einem Briefing für eine Entscheidung |
+| Answering a recurring customer question | Wiederkehrende Kundenfrage beantworten |
+| Rewriting a text for a non-specialist audience | Text für Nicht-Fachleute umschreiben |
+| A rejection to a supplier or applicant | Absage an Lieferant oder Bewerberin |
+| Translating a document into English | Dokument ins Englische übertragen |
+| Preparing an agenda for a difficult meeting | Agenda für ein schwieriges Meeting vorbereiten |
+| Writing a step-by-step guide for a process | Schritt-für-Schritt-Anleitung für einen Prozess |
+| Sorting survey or feedback responses | Umfrage- oder Feedback-Antworten sortieren |
+| Summarising a mail thread before you join it | Mail-Thread zusammenfassen, bevor man einsteigt |
+| Drafting a short internal announcement | Kurze interne Ankündigung entwerfen |
+
+</details>
+
+<details>
 <summary>💡 Hint 1: What counts as "shaping"</summary>
 
 The test: could someone do this task well with only the material in front of them and no knowledge of your company?

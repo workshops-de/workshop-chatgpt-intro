@@ -9,6 +9,8 @@ Use one of the candidate tasks from your Lesson 1 shortlist.
 - A configured account from Lesson 2
 - One real task of your own, with material you are allowed to paste
 
+Nothing of your own in mind, or nothing you are allowed to paste? The hints open with four ready-made materials in German and English. Pick one and work with it — the exercise runs exactly the same.
+
 ## Steps
 
 ### 1. Write the lazy version

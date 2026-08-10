@@ -8,6 +8,8 @@ This is where the day comes together. You will take one recurring task from your
 - A working prompt from Lesson 3
 - One recurring task and real material for it
 
+If nothing of your own works here, build the assistant around the meeting notes from the Lesson 3 materials. Turning rough notes into a clean summary with decisions and owners is a genuinely recurring task, and you can judge the result immediately — which is the third selection question answered.
+
 ## Steps
 
 ### 1. Apply the three questions

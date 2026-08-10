@@ -84,6 +84,32 @@ The single biggest quality jump does not come from better wording. It comes from
 Every fact you supply is a fact it cannot invent.
 
 ---
+layout: two-cols-header
+layoutClass: gap-x-8
+---
+
+# What about just giving it a link?
+
+::left::
+
+**Pasting and attaching are reliable**
+
+The text sits in the conversation. There is no question about whether it arrived.
+
+::right::
+
+**A link is convenient and conditional**
+
+- It only helps if the page was actually fetched
+- Intranet links, logins and paywalls are out of reach
+- Pages built entirely in JavaScript often arrive empty
+
+::bottom::
+<Callout type="warning">
+If it did not fetch the page, it will answer anyway. Ask it to quote the first heading — no quote, no page.
+</Callout>
+
+---
 
 # Let it interview you
 
