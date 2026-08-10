@@ -7,6 +7,8 @@ Strong starting points: weekly status reports, meeting notes into decisions, lon
 
 Weak starting points: anything needing today's figures, anything going straight to a customer, anything where you cannot judge the quality.
 
+If your work material is off limits, a recurring private task is a fully valid substitute. You know instantly whether the result is good, which is exactly the third selection criterion, and the technique transfers unchanged.
+
 </details>
 
 <details>

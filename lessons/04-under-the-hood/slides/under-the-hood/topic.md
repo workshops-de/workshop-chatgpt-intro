@@ -146,5 +146,14 @@ layout: task
 # Predict the failure
 
 ---
+
+# What to take away
+
+- Text becomes tokens, and the model repeatedly picks a likely next one. That is the entire mechanism
+- No step in that loop checks whether the result is true, so convincing fabrications are the normal failure
+- Everything it considers must fit one context window. Long chats quietly lose their beginning
+- The more material you supply, the less it has to invent. That is the lever you control
+
+---
 layout: ask-me-anything
 ---

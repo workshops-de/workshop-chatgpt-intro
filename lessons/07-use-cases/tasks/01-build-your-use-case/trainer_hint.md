@@ -16,7 +16,7 @@ If time is short, cut step 5 rather than step 3. The honest assessment is what m
 
 ## Common Issues
 
-**A demo example instead of real work.** People reach for something safe and generic, and the whole exercise loses its value. Push early for real material, within whatever the data rules allow.
+**A demo example instead of real work.** People reach for something safe and generic, and the whole exercise loses its value. Push early for real material — but be precise about what you are pushing for. The requirement is that the person genuinely cares about the result, not that it comes from work. If the data rules block their work material, steer them to a recurring private task rather than to an invented example. Someone planning their actual holiday learns more than someone summarising a fictional report.
 
 **Perfectionism in step 2.** Some will still be polishing after fifteen minutes. Announce the time and say clearly that usable beats perfect.
 

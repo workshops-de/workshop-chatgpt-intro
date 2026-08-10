@@ -148,5 +148,14 @@ Someone almost always asks why it still invents things if it got so much better.
 -->
 
 ---
+
+# What to take away
+
+- Before 2017 models read word by word and had forgotten the beginning by the end of a paragraph
+- Attention let a model weigh every word at once, which also made training parallel and therefore enormous
+- Each generation added context, reliability, senses and patience. The last two are what you feel day to day
+- The next jump is already not coming from size: you now buy quality with thinking time
+
+---
 layout: ask-me-anything
 ---

@@ -109,6 +109,36 @@ Notice the pattern: it is strong at shaping material and weak at sourcing it. Br
 </Callout>
 
 ---
+layout: two-cols-header
+layoutClass: gap-x-8
+---
+
+# So is it a better Google?
+
+::left::
+
+**Use a search engine when**
+
+- You need a source you can cite
+- The answer has to be current
+- It matters who is saying it
+- You want one specific fact, fast
+
+::right::
+
+**Use ChatGPT when**
+
+- You have material that needs reshaping
+- You cannot yet name what you are looking for
+- You want it explained at your level
+- You need options rather than one answer
+
+::bottom::
+<Callout type="warning">
+Treating it as a search engine is the most common beginner mistake, and the one that produces invented sources.
+</Callout>
+
+---
 
 # Where companies actually use it
 
@@ -158,6 +188,15 @@ layout: task
 ---
 
 # Where would it actually help you?
+
+---
+
+# What to take away
+
+- A specialised model needs rebuilding for a new job. A language model needs a different sentence
+- It is strong at reshaping material you supply and weak at sourcing facts you do not
+- Use a search engine for a citable, current source. Use ChatGPT when you have material or cannot yet name what you want
+- Giving it your company's knowledge is a real option, through files and projects, and that is what Lessons 5 and 7 build
 
 ---
 layout: ask-me-anything

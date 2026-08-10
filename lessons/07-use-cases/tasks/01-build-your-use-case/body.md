@@ -78,5 +78,7 @@ Exactly what this step is for. During the first run you kept adding context in c
 **"My task needs internal knowledge it cannot have."**
 Attach it as a reference file in the project, if your plan and policy allow. If they do not, that is a real organisational finding and belongs in your notes for Lesson 8.
 
+Do not sit the exercise out in that case. Build the same thing on a private recurring task instead: the weekly meal plan, the training schedule, the reading list, the packing list you rewrite before every trip. The moves are identical — instructions, reference files, cold test — and you take the skill back to work even though the material stayed at home.
+
 **"I cannot decide between a project and a GPT."**
 Start with the project. A GPT only pays off when someone else uses it, and you can promote it later.

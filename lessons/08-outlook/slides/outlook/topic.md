@@ -97,5 +97,14 @@ layout: task
 # Your next 30 days
 
 ---
+
+# What to take away
+
+- The direction is from answering questions to doing work. Agents are useful today, but supervised
+- Quality is becoming something you buy with thinking time rather than with a bigger model
+- Goals, judgement and responsibility stay human, and every improvement made them more valuable
+- Thirty minutes a month keeps you current, mostly by re-testing what you once gave up on
+
+---
 layout: ask-me-anything
 ---

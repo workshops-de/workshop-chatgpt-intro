@@ -65,4 +65,6 @@ It is not meant to be. The time limit stops you polishing and forces you to noti
 Push it: ask what is missing, ask it to group the same notes a second time along a different dimension. Structuring is where a second attempt pays off most.
 
 **"I do not have three different pieces of material."**
-Use public sources: a long article for round 1, a page from your company website for round 2, the bullet points from your own Lesson 2 notes for round 3.
+Public sources work: a long article for round 1, a page from your company website for round 2, your own Lesson 2 notes for round 3.
+
+Private material works even better for drilling, because you can judge the result in seconds. A long article you have been meaning to read for round 1, a message you need to write anyway for round 2, and your unsorted notes for a trip, a move or a party for round 3.

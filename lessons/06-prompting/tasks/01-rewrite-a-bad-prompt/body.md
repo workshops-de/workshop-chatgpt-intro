@@ -74,4 +74,8 @@ It is filling gaps you left. Every invented detail marks a fact you did not supp
 Cap it: *Ask me at most five questions, the most important ones first.*
 
 **"I have no material I am allowed to paste."**
-Rewrite a public text instead: a page from your company website, a job advert, a press release. The technique is identical.
+Two ways out, and the second is often the better one.
+
+Use a public text: a page from your company website, a job advert, a press release.
+
+Or use something private and low-stakes: a message to your landlord, a complaint about a delayed delivery, an invitation to a family celebration, the itinerary for your next trip. Nothing confidential is involved, and you can judge the result instantly because you know exactly how it should sound. That immediate judgement is what makes the exercise work, and it is often missing with work material you are still unsure about.

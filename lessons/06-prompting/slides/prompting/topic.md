@@ -166,5 +166,15 @@ layout: task
 # Prompt gym: three rounds, four minutes each
 
 ---
+
+# What to take away
+
+- Role, task, material, format, constraints. Material and format do most of the work
+- Paste the source instead of describing it. Every fact you supply is one it cannot invent
+- When you cannot name what you want, let it interview you before it starts
+- Fluent is not checked. Open one source, recalculate one number, then decide
+- A prompt worth repeating belongs in your project instructions, not in your memory
+
+---
 layout: ask-me-anything
 ---

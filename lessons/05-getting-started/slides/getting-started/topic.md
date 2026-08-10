@@ -177,5 +177,14 @@ layout: task
 # Set up your account properly
 
 ---
+
+# What to take away
+
+- The plan decides what happens to the text you type, not just speed and limits
+- On personal plans, training is on by default. You switch it off under Settings, Data Controls
+- Custom instructions and projects stop you re-explaining your context in every new chat
+- One question before pasting anything: would this be a problem outside the company?
+
+---
 layout: ask-me-anything
 ---

@@ -262,5 +262,14 @@ layout: task
 # Find the AI in your own workday
 
 ---
+
+# What to take away
+
+- AI is software that learns patterns from data instead of following rules a human wrote
+- Supervised learning needs labelled examples, unsupervised finds structure without them, reinforcement learns from feedback
+- ChatGPT combines all three, which is why it can be pointed at almost any text task
+- A model fails quietly outside the data it saw. It never notices, so a human has to
+
+---
 layout: ask-me-anything
 ---

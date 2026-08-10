@@ -192,5 +192,15 @@ layout: task
 # Build your own use case
 
 ---
+
+# What to take away
+
+- Good candidates are text-heavy, recurring, and easy for you to judge within a minute
+- Hand over your rough draft rather than a blank page
+- Using it as a thinking partner is the safest place to start, because being wrong costs nothing
+- Once a task repeats weekly, move it into a project or a GPT so you stop re-explaining it
+- Responsibility does not transfer. Your name stays on whatever goes out
+
+---
 layout: ask-me-anything
 ---
