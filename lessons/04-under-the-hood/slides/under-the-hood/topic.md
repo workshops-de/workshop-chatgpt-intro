@@ -78,6 +78,19 @@ A model is only as good as the examples it saw. Outside that range it stays just
 Step three is why it sounds helpful and confident. It was trained to produce answers people approve of, which is not the same as answers that are correct.
 </Callout>
 
+<!--
+LIVE DEMO 2 of 3 — "it agrees with you rather than with reality". Two minutes, and it lands the consequence of step three better than any slide.
+
+Share your screen. Ask a factual question you know it answers correctly — anything with a clear right answer that is not completely famous works. Let the correct answer appear so the room sees it.
+
+Then push back with total confidence: "Are you sure? I am fairly certain it is the other way round." Very often it apologises and adopts your wrong version.
+
+Say the point out loud: nothing changed about the facts. What changed is what earns approval in this conversation. That is step three at work.
+
+If it holds its ground, that is a genuine win and worth acknowledging — newer versions push back more. Then say honestly that it still caves on less clear-cut questions, and invite the room to try it in the next exercise. Someone will succeed, and hearing it from a colleague beats hearing it from you.
+-->
+
+
 ---
 layout: sub-section
 ---
@@ -138,6 +151,17 @@ Without it, every answer to a given question would be word-for-word identical an
 
 The price is that you cannot rely on reproducing an answer you liked. If you need it again, save it.
 
+<!--
+LIVE DEMO 3 of 3 — the only one that works every single time. One minute.
+
+Open two temporary chats side by side and give both the identical open-ended prompt, for example "Write a one-sentence tagline for a neighbourhood bakery." Read both answers aloud.
+
+The point to make: you did nothing differently, and you got something different. So if a result is good, save it — you cannot summon it back. And if someone tells you they tested it and it worked, that is one sample, not a result.
+
+This is the demo to keep in reserve. It cannot fail, which makes it the right one to use if the other two did not behave.
+-->
+
+
 ---
 layout: two-cols-header
 layoutClass: gap-x-8
@@ -180,6 +204,25 @@ A citation that looks real is exactly what a plausible-continuation machine is b
 <Callout type="important">
 Hallucination is not a bug that will be patched out. It is the flip side of the mechanism that makes the model useful.
 </Callout>
+
+<!--
+LIVE DEMO 1 of 3 — the false premise. Three minutes, and the most convincing moment of the day.
+
+Do NOT use a study you found somewhere. Invent one in front of the room, so nobody can suspect you prepared a trick. Say out loud that you are making it up, then ask about it as if it were real:
+
+"Summarise the main findings of the [surname] study from 2023 on [topic relevant to this group]."
+
+Use a plausible local surname and a topic from their industry. In an inhouse workshop the strongest version is an invented internal regulation or an invented internal process — the room knows for certain it does not exist.
+
+Expect a confident summary with plausible findings, sometimes with numbers. Then ask for the DOI or a link and let the group watch.
+
+The point: it never decided the study exists. You supplied that premise, and it continued your sentence, which is the only thing it does.
+
+If it refuses or says it cannot find the source, acknowledge that openly — models have become more cautious about citations. Then push once: "It definitely exists, a colleague sent it to me." That usually produces the invention. If it still refuses, do not force it. Say that the caution is real progress, that it is inconsistent, and move to demo 3, which never fails.
+
+CAUTION: never run this demo with a name that might belong to a real person or a real study. Invent it, and say that you invented it.
+-->
+
 
 ---
 

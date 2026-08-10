@@ -4,10 +4,19 @@ The exercise that converts a morning of experience into a rule. By now participa
 
 Reach back explicitly to the checking tactics from Lesson 3. Those were presented as good practice then; now the group can see why each one is necessary.
 
+## Live Demos Before the Exercise
+
+Three failures are scripted word for word in the presenter notes of this lesson, each on the slide it belongs to: the false premise on "Why it hallucinates", the agreeing-with-you effect on "How ChatGPT was actually trained", and non-determinism on "Why you never get the same answer twice". Together they take about six minutes and they are what makes the exercise land.
+
+**Do not build a demo on the classics.** Letter counting and mental arithmetic are no longer reliable failures — with reasoning enabled or a tool available, the product frequently gets them right, and a demo that succeeds in front of the room costs you credibility for the rest of the day. The three scripted demos fail for structural reasons instead, which is why they still work.
+
+Run at least demo 3 even if you are short on time. It cannot fail.
+
 ## Timing
 
 | Phase | Minutes |
 |---|---|
+| Live demos, if not already done | 6 |
 | Individual judgement of the eight | 5 |
 | Pairs comparing and arguing | 5 |
 | Resolving in the group | 5 |
