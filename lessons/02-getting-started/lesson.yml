@@ -1,7 +1,7 @@
 # Lesson configuration for repository import
 # This file defines the lesson metadata that will be synced to the platform
 
-name: Getting Started
+name: ChatGPT - Getting Started
 position: 2
 
 # Trainer (use email or slug to match existing trainer)
