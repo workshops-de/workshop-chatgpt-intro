@@ -1,7 +1,7 @@
 # Lesson configuration for repository import
 # This file defines the lesson metadata that will be synced to the platform
 
-name: Prompting and Best Practices
+name: ChatGPT - Prompting and Best Practices
 position: 3
 
 # Trainer (use email or slug to match existing trainer)
